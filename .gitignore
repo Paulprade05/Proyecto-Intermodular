@@ -1,0 +1,23 @@
+# ==========================================
+# IGNORAR CARPETAS DE COMPILACIÓN DE .NET
+# ==========================================
+[Bb]in/
+[Oo]bj/
+
+# ==========================================
+# IGNORAR ARCHIVOS LOCALES DE VISUAL STUDIO
+# ==========================================
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.jfm
+*.pbc
+
+# ==========================================
+# IGNORAR BASES DE DATOS (OPCIONAL)
+# ==========================================
+# Si NO quieres subir tu base de datos a GitHub (por privacidad), 
+# quita la almohadilla (#) de la línea de abajo:
+# *.db
+# *.sqlite
